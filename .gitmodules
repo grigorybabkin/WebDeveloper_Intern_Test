@@ -1,0 +1,9 @@
+[submodule "GP-FigmaDesignToPage"]
+	path = GP-FigmaDesignToPage
+	url = https://github.com/grigorybabkin/GP-FigmaDesignToPage
+[submodule "GP-BrowserGeolocation"]
+	path = GP-BrowserGeolocation
+	url = https://github.com/grigorybabkin/GP-BrowserGeolocation
+[submodule "GP-OrganizationSearch"]
+	path = GP-OrganizationSearch
+	url = https://github.com/grigorybabkin/GP-OrganizationSearch
